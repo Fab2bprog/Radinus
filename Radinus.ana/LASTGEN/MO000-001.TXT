@@ -1,0 +1,13 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Categorie		NFI		nouveau fichier
+Affectation		NFI		nouveau fichier
+ModeOperation		NFI		nouveau fichier
+Operation		NFI		nouveau fichier
+Compte		NFI		nouveau fichier
+Contrainte_Operation_ModeOperation		NWL	ModeOperation (IDModeOperation) et Operation (IDModeOperation)	Nouvelle liaison entre les fichiers ModeOperation (IDModeOperation) et Operation (IDModeOperation)
+Contrainte_Operation_Categorie		NWL	Categorie (IDCategorie) et Operation (IDCategorie)	Nouvelle liaison entre les fichiers Categorie (IDCategorie) et Operation (IDCategorie)
+Contrainte_Operation_Affectation		NWL	Affectation (IDAffectation) et Operation (IDAffectation)	Nouvelle liaison entre les fichiers Affectation (IDAffectation) et Operation (IDAffectation)
+Contrainte_Compte_Operation		NWL	Compte (IDCompte) et Operation (IDCompte)	Nouvelle liaison entre les fichiers Compte (IDCompte) et Operation (IDCompte)
+EnumTypeOp		ENUMCOMBI+		L'énumération/combinaison EnumTypeOp a été créée.
+EnumTypeCpt		ENUMCOMBI+		L'énumération/combinaison EnumTypeCpt a été créée.
+Categorie		FRN		

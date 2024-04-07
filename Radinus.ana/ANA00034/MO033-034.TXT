@@ -1,0 +1,3 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+Operation		TAR	300	nouvelle taille enregistrement : 300
+Operation	EstParent	RUB+		EstParent est une nouvelle rubrique

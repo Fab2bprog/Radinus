@@ -1,0 +1,6 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Parametres		TAR	31	nouvelle taille enregistrement : 31
+Parametres	VerSoftMajeur	NNR	VersionMajeur	ATTENTION : la rubrique VersionMajeur a pour nouveau nom VerSoftMajeur
+Parametres	VerSoftMineur	NNR	VersionMineur	ATTENTION : la rubrique VersionMineur a pour nouveau nom VerSoftMineur
+Parametres	VerSoftDebug	NNR	VersionDebug	ATTENTION : la rubrique VersionDebug a pour nouveau nom VerSoftDebug
+Parametres	VerDataBase	RUB+		VerDataBase est une nouvelle rubrique

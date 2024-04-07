@@ -1,0 +1,2 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+Operation	IDOperationParent	CNW	Entier sur 8 octets$Entier non signé sur 8 octets	la rubrique IDOperationParent a pour nouveau type Entier sur 8 octets

@@ -1,0 +1,3 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+PosteBudget		TAR	69	nouvelle taille enregistrement : 69
+PosteBudget	Depense	RUB+		Depense est une nouvelle clé

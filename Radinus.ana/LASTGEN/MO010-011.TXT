@@ -1,0 +1,6 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Parametres		TAR	27	nouvelle taille enregistrement : 27
+Parametres	VersionMajeur	NNR	BaseVersion	ATTENTION : la rubrique BaseVersion a pour nouveau nom VersionMajeur
+Parametres	VersionMajeur	CNW	Entier sur 4 octets$Décimal	la rubrique VersionMajeur a pour nouveau type Entier sur 4 octets
+Parametres	VersionMineure	RUB+		VersionMineure est une nouvelle rubrique
+Parametres	VersionDebug	RUB+		VersionDebug est une nouvelle rubrique

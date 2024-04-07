@@ -1,0 +1,2 @@
+//MO047-048.TXT ANA00047 TO ANA00048
+Contrainte_Compte_Banques		MCL	1,1->0,1	

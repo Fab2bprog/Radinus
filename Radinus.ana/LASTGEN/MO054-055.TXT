@@ -1,0 +1,5 @@
+//MO054-055.TXT ANA00054 TO ANA00055
+ParamSecurite		TAR	1103	nouvelle taille enregistrement : 1103
+ParamSecurite	IndicePwd	RUB+		IndicePwd est une nouvelle rubrique
+ParamSecurite	DateCrea	RUB+		DateCrea est une nouvelle rubrique
+ParamSecurite	HeureCrea	RUB+		HeureCrea est une nouvelle rubrique

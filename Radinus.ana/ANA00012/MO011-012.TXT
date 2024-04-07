@@ -1,0 +1,2 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Parametres	VersionMineur	NNR	VersionMineure	ATTENTION : la rubrique VersionMineure a pour nouveau nom VersionMineur

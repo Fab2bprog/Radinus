@@ -1,0 +1,3 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Operation		TAR	260	nouvelle taille enregistrement : 260
+Operation	Libelle	TAI+	30	la rubrique Libelle a comme nouvelle taille 81 au lieu de 51

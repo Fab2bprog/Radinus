@@ -1,0 +1,5 @@
+//MO051-052.TXT ANA00051 TO ANA00052
+Compte		TAR	796	nouvelle taille enregistrement : 796
+Compte	COBNumCompte	TAI-	9	la rubrique COBNumCompte a comme nouvelle taille 12 au lieu de 21
+Compte	COBClefRIB	TAI-	1	la rubrique COBClefRIB a comme nouvelle taille 3 au lieu de 4
+Compte	COBBIC	TAI-	4	la rubrique COBBIC a comme nouvelle taille 12 au lieu de 16

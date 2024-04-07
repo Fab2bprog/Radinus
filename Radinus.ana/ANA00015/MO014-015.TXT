@@ -1,0 +1,2 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+Parametres	InitValDefaut	NNR	InsertValDefaut	ATTENTION : la rubrique InsertValDefaut a pour nouveau nom InitValDefaut

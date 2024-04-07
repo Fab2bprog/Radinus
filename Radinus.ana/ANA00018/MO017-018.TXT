@@ -1,0 +1,3 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Rapprochement		TAR	133	nouvelle taille enregistrement : 133
+Rapprochement	IDRapprochement	RUB+		IDRapprochement est une nouvelle clé

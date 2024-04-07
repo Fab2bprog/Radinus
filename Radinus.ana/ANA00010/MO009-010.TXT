@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Parametres		TAR	31	nouvelle taille enregistrement : 31
+Parametres	BaseVersion	RUB+		BaseVersion est une nouvelle rubrique
+Parametres	InitBase	RUB+		InitBase est une nouvelle rubrique

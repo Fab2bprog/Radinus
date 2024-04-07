@@ -1,0 +1,3 @@
+//MO045-046.TXT ANA00045 TO ANA00046
+Banques		IDE-*		fichier sans identifiant
+Banques	IDBanques	CNW	Entier sur 8 octets$Identifiant automatique (8 octets)	la rubrique IDBanques a pour nouveau type Entier sur 8 octets

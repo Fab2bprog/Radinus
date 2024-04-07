@@ -1,0 +1,5 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Rapprochement		FIC-	Rapprochement	Fichier supprimé Rapprochement
+Contrainte_Raprochement_Categorie		DEL	Categorie (IDCategorie) et Rapprochement (IDCategorie)	Liaison supprimée entre les fichiers Categorie (IDCategorie) et Rapprochement (IDCategorie)
+Contrainte_Raprochement_ModeOperation		DEL	ModeOperation (IDModeOperation) et Rapprochement (IDModeOperation)	Liaison supprimée entre les fichiers ModeOperation (IDModeOperation) et Rapprochement (IDModeOperation)
+Contrainte_Raprochement_Affectation		DEL	Affectation (IDAffectation) et Rapprochement (IDAffectation)	Liaison supprimée entre les fichiers Affectation (IDAffectation) et Rapprochement (IDAffectation)

@@ -1,0 +1,2 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Parametres	RunOnce	NNR	InitBase	ATTENTION : la rubrique InitBase a pour nouveau nom RunOnce

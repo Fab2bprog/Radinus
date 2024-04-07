@@ -1,0 +1,3 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+Budget		NFI		nouveau fichier
+Contrainte_PosteBudget_Budget		NWL	PosteBudget (IDPosteBudget) et Budget (IDPosteBudget)	Nouvelle liaison entre les fichiers PosteBudget (IDPosteBudget) et Budget (IDPosteBudget)

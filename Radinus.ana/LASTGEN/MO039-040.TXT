@@ -1,0 +1,3 @@
+//MO039-040.TXT ANA00039 TO ANA00040
+Budget	Annee	CLEN*		la rubrique Annee est maintenant une clé
+Budget	Mois	CLEN*		la rubrique Mois est maintenant une clé

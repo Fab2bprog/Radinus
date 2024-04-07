@@ -1,0 +1,4 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Rapprochement		TAR	189	nouvelle taille enregistrement : 189
+Rapprochement	GUIDRapprochement	NNR	IDRapprochement	ATTENTION : la clé IDRapprochement a pour nouveau nom GUIDRapprochement
+Rapprochement	GUIDRapprochement	CNW	Chaîne$Entier non signé sur 8 octets	la rubrique GUIDRapprochement a pour nouveau type Chaîne

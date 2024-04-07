@@ -1,0 +1,5 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Compte		TAR	145	nouvelle taille enregistrement : 145
+Compte	SoldeBanque	RUB+		SoldeBanque est une nouvelle rubrique
+Compte	SoldeReel	RUB+		SoldeReel est une nouvelle rubrique
+Compte	SoldeFinal	RUB+		SoldeFinal est une nouvelle rubrique

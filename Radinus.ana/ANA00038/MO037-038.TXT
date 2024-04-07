@@ -1,0 +1,3 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Categorie		TAR	84	nouvelle taille enregistrement : 84
+Categorie	ObjectifMensuel	RUB-		la rubrique ObjectifMensuel est supprimée

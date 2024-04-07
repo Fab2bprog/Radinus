@@ -1,0 +1,2 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+EnumTypeCpt	Nul	ECOPTION+		La valeur Nul a été ajoutée.

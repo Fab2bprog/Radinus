@@ -1,0 +1,4 @@
+//MO055-056.TXT ANA00055 TO ANA00056
+ParamSecurite		TAR	1117	nouvelle taille enregistrement : 1117
+ParamSecurite	DateDernierAcces	RUB+		DateDernierAcces est une nouvelle rubrique
+ParamSecurite	HeureDernierAcces	RUB+		HeureDernierAcces est une nouvelle rubrique

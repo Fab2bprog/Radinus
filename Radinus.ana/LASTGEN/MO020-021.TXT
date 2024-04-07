@@ -1,0 +1,3 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Rapprochement		TAR	173	nouvelle taille enregistrement : 173
+Rapprochement	GUIDRapprochement	TAI-	16	la rubrique GUIDRapprochement a comme nouvelle taille 17 au lieu de 33

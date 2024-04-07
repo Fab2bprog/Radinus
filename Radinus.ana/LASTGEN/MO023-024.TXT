@@ -1,0 +1,7 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Operation		TAR	230	nouvelle taille enregistrement : 230
+Operation	ReferencePaiement	RUB+		ReferencePaiement est une nouvelle rubrique
+Operation	NumRelevBanque	RUB+		NumRelevBanque est une nouvelle rubrique
+Operation	IDStatutOperation	RUB+		IDStatutOperation est une nouvelle clé
+StatutOperation		NFI		nouveau fichier
+Contrainte_Operation_StatutOperation		NWL	StatutOperation (IDStatutOperation) et Operation (IDStatutOperation)	Nouvelle liaison entre les fichiers StatutOperation (IDStatutOperation) et Operation (IDStatutOperation)

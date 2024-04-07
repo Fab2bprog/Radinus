@@ -1,0 +1,4 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Parametres		TAR	14	nouvelle taille enregistrement : 14
+Parametres		IDE-*		fichier sans identifiant
+Parametres	IDParametres	CNW	Entier sur 4 octets$Identifiant automatique (8 octets)	la rubrique IDParametres a pour nouveau type Entier sur 4 octets

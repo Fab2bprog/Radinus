@@ -1,0 +1,3 @@
+//MO052-053.TXT ANA00052 TO ANA00053
+Compte		TAR	797	nouvelle taille enregistrement : 797
+Compte	CompteCloture	RUB+		CompteCloture est une nouvelle rubrique

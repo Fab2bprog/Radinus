@@ -1,0 +1,5 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Rapprochement		TAR	164	nouvelle taille enregistrement : 164
+Rapprochement	TypeTransaction	RUB+		TypeTransaction est une nouvelle rubrique
+Rapprochement	EstRaproche	RUB+		EstRaproche est une nouvelle rubrique
+Rapprochement	DateChargement	RUB+		DateChargement est une nouvelle clé

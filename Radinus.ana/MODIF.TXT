@@ -1,0 +1,3 @@
+//MO056-057.TXT ANA00056 TO ANA00057
+Parametres		TAR	34	nouvelle taille enregistrement : 34
+Parametres	UtiliseLangue	RUB+		UtiliseLangue est une nouvelle rubrique

@@ -1,0 +1,4 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Operation		TAR	180	nouvelle taille enregistrement : 180
+Operation	FitID	RUB+		FitID est une nouvelle clé
+Operation	TypeOperation	RUB-		la rubrique TypeOperation est supprimée

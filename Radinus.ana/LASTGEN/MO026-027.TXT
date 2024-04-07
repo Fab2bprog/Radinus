@@ -1,0 +1,4 @@
+//MO026-027.TXT ANA00026 TO ANA00027
+Operation	Date	CLEN*		la rubrique Date est maintenant une clé
+Operation	DatePointage	CLEN*		la rubrique DatePointage est maintenant une clé
+Operation	ReferencePaiement	CLEN*		la rubrique ReferencePaiement est maintenant une clé

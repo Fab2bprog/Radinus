@@ -1,0 +1,5 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Compte		TAR	114	nouvelle taille enregistrement : 114
+Compte	IDBanques	RUB+		IDBanques est une nouvelle clé
+Compte	NomBanque	RUB-		la rubrique NomBanque est supprimée
+Contrainte_Compte_Banques		NWL	Banques (IDBanques) et Compte (IDBanques)	Nouvelle liaison entre les fichiers Banques (IDBanques) et Compte (IDBanques)

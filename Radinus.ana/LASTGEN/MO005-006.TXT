@@ -1,0 +1,6 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Operation		TAR	133	nouvelle taille enregistrement : 133
+Operation	TypeOperation	RUB+		TypeOperation est une nouvelle rubrique
+Operation	IDTypeOperation	RUB-		la clé IDTypeOperation est supprimée
+TypeOperation		FIC-	TypeOperation	Fichier supprimé TypeOperation
+Contrainte_Operation_TypeOperation		DEL	TypeOperation (IDTypeOperation) et Operation (IDTypeOperation)	Liaison supprimée entre les fichiers TypeOperation (IDTypeOperation) et Operation (IDTypeOperation)

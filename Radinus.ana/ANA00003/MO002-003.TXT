@@ -1,0 +1,2 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+EnumTypeOp	Nule	ECOPTION+		La valeur Nule a été ajoutée.

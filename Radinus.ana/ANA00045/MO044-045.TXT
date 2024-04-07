@@ -1,0 +1,3 @@
+//MO044-045.TXT ANA00044 TO ANA00045
+Compte		IDE-*		fichier sans identifiant
+Compte	IDCompte	CNW	Entier sur 8 octets$Identifiant automatique (8 octets)	la rubrique IDCompte a pour nouveau type Entier sur 8 octets

@@ -1,0 +1,3 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Operation		TAR	298	nouvelle taille enregistrement : 298
+Operation	SoldePointe	RUB+		SoldePointe est une nouvelle rubrique

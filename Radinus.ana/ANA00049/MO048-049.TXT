@@ -1,0 +1,14 @@
+//MO048-049.TXT ANA00048 TO ANA00049
+Compte		TAR	810	nouvelle taille enregistrement : 810
+Compte	NomTitulaire	RUB+		NomTitulaire est une nouvelle rubrique
+Compte	AdresseTitulaire	RUB+		AdresseTitulaire est une nouvelle rubrique
+Compte	COBCodeBanque	RUB+		COBCodeBanque est une nouvelle rubrique
+Compte	COBCodeGuichet	RUB+		COBCodeGuichet est une nouvelle rubrique
+Compte	COBNumCompte	RUB+		COBNumCompte est une nouvelle rubrique
+Compte	COBClefRIB	RUB+		COBClefRIB est une nouvelle rubrique
+Compte	COBBIC	RUB+		COBBIC est une nouvelle rubrique
+Compte	COBIBAN	RUB+		COBIBAN est une nouvelle rubrique
+Compte	DateOuverture	RUB+		DateOuverture est une nouvelle rubrique
+Compte	DateCloture	RUB+		DateCloture est une nouvelle rubrique
+Compte	AdresseAgenceBank	RUB+		AdresseAgenceBank est une nouvelle rubrique
+Compte	NumProchCheque	RUB+		NumProchCheque est une nouvelle rubrique

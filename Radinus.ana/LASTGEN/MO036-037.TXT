@@ -1,0 +1,9 @@
+//MO036-037.TXT ANA00036 TO ANA00037
+Categorie		TAR	94	nouvelle taille enregistrement : 94
+Categorie	ObjectifMensuel	RUB+		ObjectifMensuel est une nouvelle rubrique
+Categorie	IDTypeCategorie	RUB+		IDTypeCategorie est une nouvelle clé
+Categorie	IDPosteBudget	RUB+		IDPosteBudget est une nouvelle clé
+TypeCategorie		NFI		nouveau fichier
+PosteBudget		NFI		nouveau fichier
+Contrainte_Categorie_TypeCategorie		NWL	TypeCategorie (IDTypeCategorie) et Categorie (IDTypeCategorie)	Nouvelle liaison entre les fichiers TypeCategorie (IDTypeCategorie) et Categorie (IDTypeCategorie)
+Contrainte_Categorie_PosteBudget		NWL	PosteBudget (IDPosteBudget) et Categorie (IDPosteBudget)	Nouvelle liaison entre les fichiers PosteBudget (IDPosteBudget) et Categorie (IDPosteBudget)

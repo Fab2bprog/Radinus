@@ -1,0 +1,13 @@
+//MO046-047.TXT ANA00046 TO ANA00047
+Categorie		IDE-*		fichier sans identifiant
+Categorie	IDCategorie	CNW	Entier sur 8 octets$Identifiant automatique (8 octets)	la rubrique IDCategorie a pour nouveau type Entier sur 8 octets
+Affectation		IDE-*		fichier sans identifiant
+Affectation	IDAffectation	CNW	Entier sur 8 octets$Identifiant automatique (8 octets)	la rubrique IDAffectation a pour nouveau type Entier sur 8 octets
+ModeOperation		IDE-*		fichier sans identifiant
+ModeOperation	IDModeOperation	CNW	Entier sur 8 octets$Identifiant automatique (8 octets)	la rubrique IDModeOperation a pour nouveau type Entier sur 8 octets
+StatutOperation		IDE-*		fichier sans identifiant
+StatutOperation	IDStatutOperation	CNW	Entier sur 8 octets$Identifiant automatique (8 octets)	la rubrique IDStatutOperation a pour nouveau type Entier sur 8 octets
+PosteBudget		IDE-*		fichier sans identifiant
+PosteBudget	IDPosteBudget	CNW	Entier sur 8 octets$Identifiant automatique (8 octets)	la rubrique IDPosteBudget a pour nouveau type Entier sur 8 octets
+Budget		IDE-*		fichier sans identifiant
+Budget	IDBudget	CNW	Entier sur 8 octets$Identifiant automatique (8 octets)	la rubrique IDBudget a pour nouveau type Entier sur 8 octets

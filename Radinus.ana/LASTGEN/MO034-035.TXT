@@ -1,0 +1,2 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Categorie	Libelle	CLEN*		la rubrique Libelle est maintenant une clé

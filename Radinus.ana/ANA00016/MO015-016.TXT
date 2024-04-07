@@ -1,0 +1,5 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Raprochement		NFI		nouveau fichier
+Contrainte_Raprochement_Categorie		NWL	Categorie (IDCategorie) et Raprochement (IDCategorie)	Nouvelle liaison entre les fichiers Categorie (IDCategorie) et Raprochement (IDCategorie)
+Contrainte_Raprochement_ModeOperation		NWL	ModeOperation (IDModeOperation) et Raprochement (IDModeOperation)	Nouvelle liaison entre les fichiers ModeOperation (IDModeOperation) et Raprochement (IDModeOperation)
+Contrainte_Raprochement_Affectation		NWL	Affectation (IDAffectation) et Raprochement (IDAffectation)	Nouvelle liaison entre les fichiers Affectation (IDAffectation) et Raprochement (IDAffectation)

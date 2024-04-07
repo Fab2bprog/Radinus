@@ -1,0 +1,13 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Operation		TAR	137	nouvelle taille enregistrement : 137
+Operation	IDTypeOperation	RUB+		IDTypeOperation est une nouvelle clé
+Operation	Type	RUB-		la rubrique Type est supprimée
+Compte		TAR	157	nouvelle taille enregistrement : 157
+Compte	IDTypeCompte	RUB+		IDTypeCompte est une nouvelle clé
+Compte	Type	RUB-		la rubrique Type est supprimée
+TypeOperation		NFI		nouveau fichier
+TypeCompte		NFI		nouveau fichier
+Contrainte_Operation_TypeOperation		NWL	TypeOperation (IDTypeOperation) et Operation (IDTypeOperation)	Nouvelle liaison entre les fichiers TypeOperation (IDTypeOperation) et Operation (IDTypeOperation)
+Contrainte_Compte_TypeCompte		NWL	TypeCompte (IDTypeCompte) et Compte (IDTypeCompte)	Nouvelle liaison entre les fichiers TypeCompte (IDTypeCompte) et Compte (IDTypeCompte)
+		ENUMCOMBI-	EnumTypeOp	L'énumération/combinaison EnumTypeOp a été supprimée.
+		ENUMCOMBI-	EnumTypeCpt	L'énumération/combinaison EnumTypeCpt a été supprimée.

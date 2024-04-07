@@ -1,0 +1,2 @@
+//MO049-050.TXT ANA00049 TO ANA00050
+Operation	Libelle	CLEN*		la rubrique Libelle est maintenant une clé

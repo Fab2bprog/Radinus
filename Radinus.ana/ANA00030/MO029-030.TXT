@@ -1,0 +1,3 @@
+//MO029-030.TXT ANA00029 TO ANA00030
+Operation		TAR	288	nouvelle taille enregistrement : 288
+Operation	IDOperationParent	RUB+		IDOperationParent est une nouvelle clé
