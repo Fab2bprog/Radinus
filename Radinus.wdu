@@ -57,7 +57,6 @@ REQ_ListeOperations.WDR
 FEN_ListeOperations.wdw
 GABARITS\WD\190 EVOLUTION2\EVOLUTION2_TV_NODE_CLOSE.PNG
 IMAGESICONESRADINUS\BASE_OPERATION\BASE_CREATEINSIDE.PNG
-IMAGESICONESRADINUS\BASE_OPERATION\BASE_SEARCH.PNG
 FEN_FicheOperation.wdw
 FEN_FicheSousOperation.wdw
 REQ_StatCategorie.WDR
@@ -116,6 +115,9 @@ FI_TDB_Donuts_Debits.wdw
 CM_AGRANDIR.PNG
 FI_TDB_Donuts_Credits.wdw
 FI_TDB_Compteur_Debits.wdw
+FEN_SelCompteImportOFX.wdw
+ETAT_ListeOperationTabH.wde
+EVOLUTION2_REPORT_LOGO.GIF
 Radinus.wdy
 Gabarits\WD\190 Evolution2\Evolution2.wdy
 Gabarits\WD\190 Evolution2\EVOLUTION2_BANNER_BOTTOM.PNG
