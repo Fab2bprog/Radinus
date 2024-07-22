@@ -11,10 +11,13 @@ There is the possibility of dividing transactions into sub-transactions to be mo
 Radinus is a simple software which is intended to evolve in the future, please let me know your comments for future improvements
 Radinus is MIT licensed software
 
+Radinus version 0.10
+- Added a basic hyper-file repair tool that allows reindexing of all files.
+
 Radinus version 0.9
--Improved basic backup and restoration procedures.
+-Improved basic backup and restoration procedures
 -Creation of a log system informing of the progress of the last operation
--Reorganization of certain menus.
+-Reorganization of certain menus
 
 Radinus version 0.8
 - Improved operations list window: 
@@ -22,6 +25,9 @@ Radinus version 0.8
 - Added print menu (printer, pdf, html) with a list of operations.
 - Added a filter menu for operations according to status: clocked, committed, planned.
 - Added a menu for selecting the operation display period.
+- Added debit and credit columns in the operations list window
+
+
 
 Radinus version 0.7
 -Management of ofx files integrating several bank accounts
