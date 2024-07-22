@@ -11,6 +11,11 @@ There is the possibility of dividing transactions into sub-transactions to be mo
 Radinus is a simple software which is intended to evolve in the future, please let me know your comments for future improvements
 Radinus is MIT licensed software
 
+Radinus version 0.9
+-Improved basic backup and restoration procedures.
+-Creation of a log system informing of the progress of the last operation
+-Reorganization of certain menus.
+
 Radinus version 0.8
 - Improved operations list window: 
 - Data export menu additions
