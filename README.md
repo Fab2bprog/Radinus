@@ -15,9 +15,9 @@ Radinus version 0.10
 - Added a basic hyper-file repair tool that allows reindexing of all files.
 
 Radinus version 0.9
--Improved basic backup and restoration procedures
--Creation of a log system informing of the progress of the last operation
--Reorganization of certain menus
+- Improved basic backup and restoration procedures
+- Creation of a log system informing of the progress of the last operation
+- Reorganization of certain menus
 
 Radinus version 0.8
 - Improved operations list window: 
