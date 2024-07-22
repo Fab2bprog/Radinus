@@ -27,34 +27,32 @@ Radinus version 0.8
 - Added a menu for selecting the operation display period.
 - Added debit and credit columns in the operations list window
 
-
-
 Radinus version 0.7
--Management of ofx files integrating several bank accounts
+- Management of ofx files integrating several bank accounts
 
 Radinus version 0.6
--Added Spending Earnings Dashboard
--Language memorization
--Addition in the transaction entry of a debit/credit drop-down menu when entering amounts.
--Bug correction in bank file visualization
+- Added Spending Earnings Dashboard
+- Language memorization
+- Addition in the transaction entry of a debit/credit drop-down menu when entering amounts.
+- Bug correction in bank file visualization
 
 Radinus version 0.5.2
--English available
+- English available
 
 Radinus version 0.5.1
--Optimization and cleanup of the code regarding element deletions
+- Optimization and cleanup of the code regarding element deletions
 
 Radinus version 0.5
--Migration from WINDEV 24 to WINDEV 28.
--Change of user license: adoption of the MIT license.
--Various code optimizations with improvements to the software's ergonomics.
--Redesign of certain windows with graphical improvements
--Bug fixes particularly in the entry of operations.
--Optimization of IBAN validation for WINDEV 28.
+- Migration from WINDEV 24 to WINDEV 28.
+- Change of user license: adoption of the MIT license.
+- Various code optimizations with improvements to the software's ergonomics.
+- Redesign of certain windows with graphical improvements
+- Bug fixes particularly in the entry of operations.
+- Optimization of IBAN validation for WINDEV 28.
 
 Radinus version 0.4.1
--Login timestamp with password and password change
+- Login timestamp with password and password change
 
 Radinus version 0.4
--Optimization of the entry of bank details
--Ability to enter a password to be able to use the software
+- Optimization of the entry of bank details
+- Ability to enter a password to be able to use the software
