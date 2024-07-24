@@ -11,6 +11,17 @@ There is the possibility of dividing transactions into sub-transactions to be mo
 Radinus is a simple software which is intended to evolve in the future, please let me know your comments for future improvements
 Radinus is MIT licensed software
 
+Radinus is free software that was developed with the Windev development tool from PCSoft. 
+The use of this source code, its modification and its compilation requires at least possession of a Windev PCSoft license in version 28 or higher.
+
+Radinus version 0.12
+-Aesthetic and ergonomic reorganization of all windows concerning budget management.
+
+Radinus version 0.11
+-In the operations list window: addition of a button to point transactions more quickly.
+-Added an option to open the windows calculator.
+-Relook window for bank file integration and csv file management window
+
 Radinus version 0.10
 - Added a basic hyper-file repair tool that allows reindexing of all files.
 
