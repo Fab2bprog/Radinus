@@ -18,7 +18,7 @@ Radinus version 0.13
 - Ability to export operation list lines in QIF and OFX format.
 
 Radinus version 0.12
--Aesthetic and ergonomic reorganization of all windows concerning budget management.
+- Aesthetic and ergonomic reorganization of all windows concerning budget management.
 
 Radinus version 0.11
 -In the operations list window: addition of a button to point transactions more quickly.
