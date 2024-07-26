@@ -21,9 +21,9 @@ Radinus version 0.12
 - Aesthetic and ergonomic reorganization of all windows concerning budget management.
 
 Radinus version 0.11
--In the operations list window: addition of a button to point transactions more quickly.
--Added an option to open the windows calculator.
--Relook window for bank file integration and csv file management window
+- In the operations list window: addition of a button to point transactions more quickly.
+- Added an option to open the windows calculator.
+- Relook window for bank file integration and csv file management window
 
 Radinus version 0.10
 - Added a basic hyper-file repair tool that allows reindexing of all files.
