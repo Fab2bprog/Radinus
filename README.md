@@ -14,13 +14,16 @@ Radinus is MIT licensed software
 Radinus is free software that was developed with the Windev development tool from PCSoft. 
 The use of this source code, its modification and its compilation requires at least possession of a Windev PCSoft license in version 28 or higher.
 
+Radinus version 0.13 
+- Ability to export operation list lines in QIF and OFX format.
+
 Radinus version 0.12
--Aesthetic and ergonomic reorganization of all windows concerning budget management.
+- Aesthetic and ergonomic reorganization of all windows concerning budget management.
 
 Radinus version 0.11
--In the operations list window: addition of a button to point transactions more quickly.
--Added an option to open the windows calculator.
--Relook window for bank file integration and csv file management window
+- In the operations list window: addition of a button to point transactions more quickly.
+- Added an option to open the windows calculator.
+- Relook window for bank file integration and csv file management window
 
 Radinus version 0.10
 - Added a basic hyper-file repair tool that allows reindexing of all files.
@@ -46,24 +49,3 @@ Radinus version 0.6
 - Language memorization
 - Addition in the transaction entry of a debit/credit drop-down menu when entering amounts.
 - Bug correction in bank file visualization
-
-Radinus version 0.5.2
-- English available
-
-Radinus version 0.5.1
-- Optimization and cleanup of the code regarding element deletions
-
-Radinus version 0.5
-- Migration from WINDEV 24 to WINDEV 28.
-- Change of user license: adoption of the MIT license.
-- Various code optimizations with improvements to the software's ergonomics.
-- Redesign of certain windows with graphical improvements
-- Bug fixes particularly in the entry of operations.
-- Optimization of IBAN validation for WINDEV 28.
-
-Radinus version 0.4.1
-- Login timestamp with password and password change
-
-Radinus version 0.4
-- Optimization of the entry of bank details
-- Ability to enter a password to be able to use the software
