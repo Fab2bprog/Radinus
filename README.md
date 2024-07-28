@@ -14,6 +14,13 @@ Radinus is MIT licensed software
 Radinus is free software that was developed with the Windev development tool from PCSoft. 
 The use of this source code, its modification and its compilation requires at least possession of a Windev PCSoft license in version 28 or higher.
 
+Radinus 0.14
+- Improved database repair procedure
+- Improvement in the handling of certain errors
+- Miscellaneous bug fixes.
+- Informational messages for new users.
+- Optimization of the bank account management window
+
 Radinus version 0.13 
 - Ability to export operation list lines in QIF and OFX format.
 
