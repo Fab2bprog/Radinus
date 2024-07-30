@@ -1,0 +1,15 @@
+RADINUS SOFTWARE : Licence MIT (Massachusetts Institute of Technology Licence)
+
+Droit d'auteur (c) 2024 Fabrice Garcia
+
+Par la presente, la permission est accordee, gratuitement, à toute personne obtenant une copie de ce logiciel Radinus et des fichiers de documentation associes (le "Logiciel" Radinus),
+d'utiliser le Logiciel sans restriction, y compris, sans limitation, les droits d'utiliser, copier, modifier, fusionner, publier, distribuer, sous-licencier et/ou vendre des copies du Logiciel, 
+et de permettre aux personnes auxquelles le Logiciel est fourni de le faire, sous reserve des conditions suivantes :
+
+L'avis de droit d'auteur ci-dessus et cette autorisation doivent être inclus dans toutes les copies ou parties substantielles du Logiciel.
+
+LE LOGICIEL RADINUS EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, 
+Y COMPRIS MAIS SANS S'Y LIMITER AUX GARANTIES DE QUALITE MARCHANDE, D'ADEQUATION A UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFACON. 
+EN AUCUN CAS LES AUTEURS OU LES DETENTEURS DES DROITS D'AUTEUR NE SERONT RESPONSABLES DE TOUTE RECLAMATION, 
+DOMMAGE OU AUTRE RESPONSABILITE, QUE CE SOIT DANS UNE ACTION CONTRACTUELLE, DELICTUELLE OU AUTRE, DECOULANT DE, EN DEHORS OU EN RELATION 
+AVEC LE LOGICIEL OU L'UTILISATION OU AUTRE MANIPULATION DU LOGICIEL.

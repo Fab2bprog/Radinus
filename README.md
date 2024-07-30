@@ -14,6 +14,14 @@ Radinus is MIT licensed software
 Radinus is free software that was developed with the Windev development tool from PCSoft. 
 The use of this source code, its modification and its compilation requires at least possession of a Windev PCSoft license in version 28 or higher.
 
+Radinus version 0.16
+- Graphical and ergonomic optimizations
+- Optimizations of some data deletion messages.
+- Added keyboard shortcuts
+
+Radinus version 0.15
+- Added the Radinus mascot logo: A red squirrel with a fox tail holding a wallet in his hands!
+
 Radinus 0.14
 - Improved database repair procedure
 - Improvement in the handling of certain errors
