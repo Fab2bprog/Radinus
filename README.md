@@ -2,6 +2,11 @@
 
  <p align="center" > Personal finance management software </p>
 
+<p align="center">
+  <img src="https://github.com/Fab2bprog/Radinus/blob/main/ImagesIconesRadinus/Licence/EcranPrincipal.png" width="650" title="Radinus">
+ </p>
+
+
 I present to you the free source code of Radinus, a free personal finance management software that I developed in WINDEV.
 It allows you to import banking files in CSV, OFX, QIF and CMI format. So you won't have to enter your banking transactions into the software.
 You will be able to manage several bank accounts.
