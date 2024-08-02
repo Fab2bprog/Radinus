@@ -15,7 +15,9 @@ Radinus is free software that was developed with the Windev development tool fro
 The use of this source code, its modification and its compilation requires at least possession of a Windev PCSoft license in version 28 or higher.
 
 Radinus version 0.20
-- Code optimizations to improve speed: tests done with test sets of 20,000 bank transactions
+- Code optimizations to improve speed: tests done with test sets of 35,000 bank transactions
+- Improved dashboard display and RIB editing window
+- Ergonomics optimization window balance evolution curve
 
 Radinus version 0.19
 - Fixed a bug preventing the integration of transactions from a bank file.
