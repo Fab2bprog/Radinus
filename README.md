@@ -14,6 +14,9 @@ Radinus is MIT licensed software
 Radinus is free software that was developed with the Windev development tool from PCSoft. 
 The use of this source code, its modification and its compilation requires at least possession of a Windev PCSoft license in version 28 or higher.
 
+Radinus version 0.20
+- Code optimizations to improve speed: tests done with test sets of 20,000 bank transactions
+
 Radinus version 0.19
 - Fixed a bug preventing the integration of transactions from a bank file.
 - Possibility of integrating several lines simultaneously from a bank file.
@@ -56,24 +59,3 @@ Radinus version 0.11
 Radinus version 0.10
 - Added a basic hyper-file repair tool that allows reindexing of all files.
 
-Radinus version 0.9
-- Improved basic backup and restoration procedures
-- Creation of a log system informing of the progress of the last operation
-- Reorganization of certain menus
-
-Radinus version 0.8
-- Improved operations list window: 
-- Data export menu additions
-- Added print menu (printer, pdf, html) with a list of operations.
-- Added a filter menu for operations according to status: clocked, committed, planned.
-- Added a menu for selecting the operation display period.
-- Added debit and credit columns in the operations list window
-
-Radinus version 0.7
-- Management of ofx files integrating several bank accounts
-
-Radinus version 0.6
-- Added Spending Earnings Dashboard
-- Language memorization
-- Addition in the transaction entry of a debit/credit drop-down menu when entering amounts.
-- Bug correction in bank file visualization
