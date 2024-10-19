@@ -1,0 +1,3 @@
+//MO061-062.TXT ANA00061 TO ANA00062
+Commentaire		TAR	538	nouvelle taille enregistrement : 538
+Commentaire	CommentaireTxt	TAI-	512	la rubrique CommentaireTxt a comme nouvelle taille 513 au lieu de 1025

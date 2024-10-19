@@ -1,0 +1,3 @@
+//MO059-060.TXT ANA00059 TO ANA00060
+Commentaire		NFI		nouveau fichier
+Contrainte_Operation_Commentaire		NWL	Operation (IDOperation) et Commentaire (IDOperation)	Nouvelle liaison entre les fichiers Operation (IDOperation) et Commentaire (IDOperation)

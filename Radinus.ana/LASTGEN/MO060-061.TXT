@@ -1,0 +1,6 @@
+//MO060-061.TXT ANA00060 TO ANA00061
+Commentaire	IDCommentaire	CLEU*		la rubrique IDCommentaire est maintenant une clé
+Commentaire	IDOperation	RUB+		IDOperation est une nouvelle clé
+Commentaire	IDOperation	RUB-		la rubrique IDOperation est supprimée
+Contrainte_Operation_Commentaire		NWL	Operation (IDOperation) et Commentaire (IDOperation)	Nouvelle liaison entre les fichiers Operation (IDOperation) et Commentaire (IDOperation)
+Contrainte_Operation_Commentaire		DEL	Operation (IDOperation) et Commentaire (IDOperation)	Liaison supprimée entre les fichiers Operation (IDOperation) et Commentaire (IDOperation)
