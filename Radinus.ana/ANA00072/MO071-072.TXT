@@ -1,0 +1,4 @@
+//MO071-072.TXT ANA00071 TO ANA00072
+CalOpPeriodique		TAR	262	nouvelle taille enregistrement : 262
+CalOpPeriodique	DateDebut	RUB-		la rubrique DateDebut est supprimée
+CalOpPeriodique	ActiverOp	RUB-		la rubrique ActiverOp est supprimée

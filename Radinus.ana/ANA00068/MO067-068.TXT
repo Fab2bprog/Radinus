@@ -1,0 +1,3 @@
+//MO067-068.TXT ANA00067 TO ANA00068
+Operation	GUIDCalOpPeriode	NNR	IDCalOpPeriode	ATTENTION : la clé IDCalOpPeriode a pour nouveau nom GUIDCalOpPeriode
+CalOpPeriodique	GUIDCalOpPeriode	NNR	IDCalOpPeriode	ATTENTION : la clé IDCalOpPeriode a pour nouveau nom GUIDCalOpPeriode

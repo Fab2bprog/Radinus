@@ -1,0 +1,2 @@
+//MO065-066.TXT ANA00065 TO ANA00066
+Contrainte_Operation_CalOpPeriodique		NWL	CalOpPeriodique (IDCalOpPeriode) et Operation (IDCalOpPeriode)	Nouvelle liaison entre les fichiers CalOpPeriodique (IDCalOpPeriode) et Operation (IDCalOpPeriode)

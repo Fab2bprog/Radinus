@@ -1,0 +1,3 @@
+//MO070-071.TXT ANA00070 TO ANA00071
+CalOpPeriodique		TAR	272	nouvelle taille enregistrement : 272
+CalOpPeriodique	Periode	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Periode a pour nouveau type Chaîne

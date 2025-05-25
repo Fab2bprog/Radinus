@@ -1,0 +1,2 @@
+//MO073-074.TXT ANA00073 TO ANA00074
+CalOpPeriodique	PeriodeNbrRepete	NNR	PeriodeQte	ATTENTION : la rubrique PeriodeQte a pour nouveau nom PeriodeNbrRepete

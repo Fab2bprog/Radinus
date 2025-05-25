@@ -1,0 +1,2 @@
+//MO069-070.TXT ANA00069 TO ANA00070
+CalOpPeriodique	DateDernOpGen	NNR	DateDerniereOpGen	ATTENTION : la clé DateDerniereOpGen a pour nouveau nom DateDernOpGen

@@ -1,0 +1,2 @@
+//MO074-075.TXT ANA00074 TO ANA00075
+CalOpPeriodique	Periode	CNW	Entier non signé sur 4 octets$Chaîne	la rubrique Periode a pour nouveau type Entier non signé sur 4 octets

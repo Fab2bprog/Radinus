@@ -1,0 +1,3 @@
+//MO066-067.TXT ANA00066 TO ANA00067
+CalOpPeriodique		TAR	260	nouvelle taille enregistrement : 260
+CalOpPeriodique	IDOperation	RUB+		IDOperation est une nouvelle clé

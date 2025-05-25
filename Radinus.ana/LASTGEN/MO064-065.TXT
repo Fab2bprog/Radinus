@@ -1,0 +1,5 @@
+//MO064-065.TXT ANA00064 TO ANA00065
+Operation		TAR	341	nouvelle taille enregistrement : 341
+Operation	IDCalOpPeriode	RUB+		IDCalOpPeriode est une nouvelle clé
+CalOpPeriodique		NFI		nouveau fichier
+CalOpPeriodique	Periode	RRN		

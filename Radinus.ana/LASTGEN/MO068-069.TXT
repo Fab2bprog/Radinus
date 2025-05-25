@@ -1,0 +1,4 @@
+//MO068-069.TXT ANA00068 TO ANA00069
+CalOpPeriodique		TAR	269	nouvelle taille enregistrement : 269
+CalOpPeriodique	DateDerniereOpGen	NNR	DateDerniereOp	ATTENTION : la clé DateDerniereOp a pour nouveau nom DateDerniereOpGen
+CalOpPeriodique	DateProchOp	RUB+		DateProchOp est une nouvelle rubrique
