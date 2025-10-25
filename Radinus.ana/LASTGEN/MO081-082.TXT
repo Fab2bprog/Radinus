@@ -1,0 +1,3 @@
+//MO081-082.TXT ANA00081 TO ANA00082
+Chequier		TAR	207	nouvelle taille enregistrement : 207
+Chequier	Commentaires	RUB+		Commentaires est une nouvelle rubrique

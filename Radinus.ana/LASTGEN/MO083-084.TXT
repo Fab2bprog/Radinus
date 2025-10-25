@@ -1,0 +1,2 @@
+//MO083-084.TXT ANA00083 TO ANA00084
+Chequier	IDReferenceChq	CLEU*		la rubrique IDReferenceChq est maintenant une clé

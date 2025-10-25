@@ -1,0 +1,2 @@
+//MO082-083.TXT ANA00082 TO ANA00083
+Cheque	IDChequierNumChq	RUB+		IDChequierNumChq est une nouvelle clé

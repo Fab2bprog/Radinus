@@ -1,0 +1,3 @@
+//MO085-086.TXT ANA00085 TO ANA00086
+StatutCheque	Libelle	NNR	NomStatut	ATTENTION : la clé NomStatut a pour nouveau nom Libelle
+StatutCheque	Libelle	CLEN*		la rubrique Libelle est maintenant une clé

@@ -1,0 +1,6 @@
+//MO084-085.TXT ANA00084 TO ANA00085
+Cheque		TAR	260	nouvelle taille enregistrement : 260
+Cheque	IDStatutCheque	RUB+		IDStatutCheque est une nouvelle clé
+Cheque	EtatChq	RUB-		la rubrique EtatChq est supprimée
+StatutCheque		NFI		nouveau fichier
+Contrainte_Cheque_StatutCheque		NWL	StatutCheque (IDStatutCheque) et Cheque (IDStatutCheque)	Nouvelle liaison entre les fichiers StatutCheque (IDStatutCheque) et Cheque (IDStatutCheque)

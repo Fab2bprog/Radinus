@@ -1,0 +1,7 @@
+//MO080-081.TXT ANA00080 TO ANA00081
+Operation		TAR	379	nouvelle taille enregistrement : 379
+Operation	IDCheque	RUB+		IDCheque est une nouvelle clé
+Chequier		NFI		nouveau fichier
+Cheque		NFI		nouveau fichier
+Contrainte_Chequier_Cheque		NWL	Chequier (IDChequier) et Cheque (IDChequier)	Nouvelle liaison entre les fichiers Chequier (IDChequier) et Cheque (IDChequier)
+Contrainte_Operation_Cheque		NWL	Operation (IDCheque) et Cheque (IDCheque)	Nouvelle liaison entre les fichiers Operation (IDCheque) et Cheque (IDCheque)

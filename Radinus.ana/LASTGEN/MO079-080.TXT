@@ -1,0 +1,3 @@
+//MO079-080.TXT ANA00079 TO ANA00080
+Operation		TAR	371	nouvelle taille enregistrement : 371
+Operation	ReferencePaiement	TAI+	30	la rubrique ReferencePaiement a comme nouvelle taille 51 au lieu de 21
