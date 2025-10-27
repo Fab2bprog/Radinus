@@ -19,6 +19,14 @@ Radinus is MIT licensed software
 Radinus is free software that was developed with the Windev development tool from PCSoft. 
 The use of this source code, its modification and its compilation requires at least possession of a Windev PCSoft license in version 28 or higher.
 
+Radinus 1.6.2
+- Optimized the checkbook management code and fixed minor bugs.
+- Added an option to hide sub-transactions to allow sorting in the transaction list.
+- Fixed a display bug in statistics when directly selecting a year.
+
+Radinus 1.6.1
+- Optimized the checkbook management code and fixed minor bugs.
+
 Radinus 1.6
 - Fixed a bug in Assignment statistics
 - Checkbook and check management
