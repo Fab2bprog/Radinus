@@ -19,6 +19,12 @@ Radinus is MIT licensed software
 Radinus is free software that was developed with the Windev development tool from PCSoft. 
 The use of this source code, its modification and its compilation requires at least possession of a Windev PCSoft license in version 28 or higher.
 
+Radinus 1.7
+- Third-party management and statistics.
+- Manage money transfers between two bank accounts in a single step.
+- In quick transaction classification: ability to specify the third party and transaction status.
+- Fixed a bug related to the relationship between operations and sub-operations.
+
 Radinus 1.6.3
 - Optimized checkbook management code and fixed bugs related to checkbook management.
 - Closed accounts are no longer listed in the bank account balance window.
